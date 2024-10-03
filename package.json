@@ -1,0 +1,20 @@
+{
+  "name": "assamblyuniswap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@nomicfoundation/hardhat-web3-v4": "^1.0.0",
+    "hardhat": "^2.21.0",
+    "web3": "^4.6.0"
+  },
+  "dependencies": {
+    "ethers": "5.7"
+  }
+}
